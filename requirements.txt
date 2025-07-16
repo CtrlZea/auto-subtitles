@@ -1,0 +1,5 @@
+RealtimeSTT
+websockets
+numpy
+scipy
+PyAudio 
