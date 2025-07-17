@@ -48,10 +48,10 @@ if __name__ == '__main__':
         'spinner': False,
         'use_microphone': True,  # Changed to True to use system microphone
         'model': 'medium',
-        'gpu_device_index': 0,
         'language': 'en',
-        'silero_sensitivity': 0.4,
-        'webrtc_sensitivity': 2,
+        'gpu_device_index': 0,
+        'silero_sensitivity': 0.6,
+        'webrtc_sensitivity': 3,
         'post_speech_silence_duration': 0.7,
         'min_length_of_recording': 0,
         'min_gap_between_recordings': 0,

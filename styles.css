@@ -37,6 +37,8 @@ body {
     width: 100%;
     text-wrap: balance;
     box-sizing: border-box;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
 }
 
 .completed-sentence {
